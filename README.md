@@ -1,12 +1,10 @@
 # 현재의 음악 장르 분류기를 개선하는 모델
 
+류다윤, 경영학부, <ryudy4977@naver.com> - 음성 데이터 확보 및 피처 추출, 모델 구축 및 적용
 
-류다윤, 경영학부, <ryudy4977@naver.com>
-
-최재훈, 경영학부, <bang8649@naver.com>
+최재훈, 경영학부, <bang8649@naver.com> - 주제 제안/기획, 멜론 차트 데이터 셋 구축, 블로그 작성 및 발표
 
 ---
-
 
 ## I. Proposal
 ### A.	Motivation: Why are you doing this?
